@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website Development",
+      "type": "income",
+      "category": "Sell",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Fastfood",
+      "type": "outcome",
+      "category": "Food",
+      "price": 20,
+      "createdAt": "2022-07-30T12:33:44.525Z"
+    },
+    {
+      "id": 3,
+      "description": "TryHackMe",
+      "type": "outcome",
+      "category": "Study",
+      "price": 3659,
+      "createdAt": "2022-08-30T12:33:44.525Z"
+    },
+    {
+      "description": "MBA",
+      "price": 35000,
+      "category": "Study",
+      "type": "outcome",
+      "createdAt": "2023-01-18T17:08:58.752Z",
+      "id": 4
+    },
+    {
+      "description": "2nd Job",
+      "price": 25000,
+      "category": "Work",
+      "type": "income",
+      "createdAt": "2023-01-18T17:15:22.477Z",
+      "id": 5
+    }
+  ]
+}
